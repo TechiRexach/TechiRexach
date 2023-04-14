@@ -6,8 +6,6 @@ I'm Teresa, but everyone calls me Techi!
 
 Pasionated photographer and now, a Full-Stack Web Developer.👩‍💻
 
-I'm currently looking for a new job, so... here you can see what I have done so far.
-
 Fell free to take a look! 😄 
 
 Here's my portfolio: https://techirexach.netlify.app/
