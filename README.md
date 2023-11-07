@@ -8,7 +8,7 @@ Pasionated photographer and now, a Full-Stack Web Developer.👩‍💻
 
 Fell free to take a look! 😄 
 
-Here's my portfolio: https://techirexach.netlify.app/
+Here's my portfolio: https://techirexach.com/
 
 <br>
 
